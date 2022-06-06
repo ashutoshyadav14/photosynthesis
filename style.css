@@ -1,0 +1,45 @@
+h1{
+text-align: center;  
+ color: purple;
+}
+img{
+  display: right ;  
+}
+p{
+  color: blueviolet;
+}
+
+.hero{
+  display: flex;
+  justify-content: space-between;
+}
+
+.special{
+  width: 40%;
+}
+.special-h3,
+li {
+  text-transform: uppercase;
+}
+li{
+   margin-bottom: 15px;
+}
+.list-1{
+  color: red;
+}
+.list-2{
+  color: brown;
+}
+
+ .list-3 {
+  color:blue;
+}
+.list-4{
+  color: green;
+}
+span{
+  color: black;
+}
+.list-5{
+  color: royalblue;
+}
